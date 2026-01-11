@@ -1,0 +1,5 @@
+{
+  "name": "Zengorithms - Algorithm Visualizer",
+  "description": "A minimal and soothing algorithm visualizer for learning sorting, trees, and graphs, featuring an AI tutor.",
+  "requestFramePermissions": []
+}
